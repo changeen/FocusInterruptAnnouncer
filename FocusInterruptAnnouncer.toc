@@ -1,0 +1,8 @@
+## Interface: 100200
+## Title: FocusInterruptAnnouncer
+## Notes: 焦点打断自动喊话插件
+## Author: CHANGEEN
+## Version: 1.0.0
+## SavedVariables: FocusInterruptAnnouncerDB
+
+FocusInterruptAnnouncer.lua
