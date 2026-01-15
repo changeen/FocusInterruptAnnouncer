@@ -1,6 +1,7 @@
 # FocusInterruptAnnouncer
 ## 🤖 开发说明
 由于目前得知的消息，12.0版本后wa插件不再更新，
+
 依赖于wa插件的焦点打断通知相关插件将无法使用，遂借助AI编写此插件。
 
 **本插件使用 DeepSeek AI 辅助编写**
